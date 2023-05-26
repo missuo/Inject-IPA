@@ -1,4 +1,4 @@
-# Inject-IPA
+# Inject Dylib to IPA
 
 Inject dylib into ipa
 
@@ -11,7 +11,7 @@ Inject dylib into ipa
 ```
 Download [injectipa.pkg](https://github.com/Netskao/MacOS-Utils/raw/main/injectipa.pkg).
 ```
-2. Modify the theme of Dump `WeChat.ipa`.
+2. Modify the theme of DumpDecrypted `WeChat.ipa`.
 
 ```bash
 ./inject-theme.sh WeChat_8.0.38_dump.ipa
