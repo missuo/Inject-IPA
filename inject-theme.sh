@@ -3,7 +3,7 @@
  # @Author: Vincent Young
  # @Date: 2023-05-27 03:25:35
  # @LastEditors: Vincent Young
- # @LastEditTime: 2023-05-27 03:49:35
+ # @LastEditTime: 2023-05-27 03:51:46
  # @FilePath: /Inject-IPA/inject-theme.sh
  # @Telegram: https://t.me/missuo
  # 
@@ -15,7 +15,7 @@ IPA_PATH=$1
 
 # Check if the path of the ipa file has been provided
 if [ -z "$IPA_PATH" ]; then
-	echo "Please provide a path to an ipa file. Usage: ./insert_theme.sh /path/to/your.ipa"
+	echo "Please provide a path to an ipa file. Usage: ./inject-theme.sh /path/to/your.ipa"
 	exit 1
 fi
 
