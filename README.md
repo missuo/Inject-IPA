@@ -1,4 +1,4 @@
-# Inject Dylib to IPA
+# Inject dylib into IPA
 
 Inject dylib into ipa
 
