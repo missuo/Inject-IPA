@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons_filled_float_window_on</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons_filled_float_window_on备份" transform="translate(4.000000, 4.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M8,14.4 C11.5346224,14.4 14.4,11.5346224 14.4,8 C14.4,4.4653776 11.5346224,1.6 8,1.6 C4.4653776,1.6 1.6,4.4653776 1.6,8 C1.6,11.5346224 4.4653776,14.4 8,14.4 Z M8,16 C3.581722,16 0,12.418278 0,8 C0,3.581722 3.581722,0 8,0 C12.418278,0 16,3.581722 16,8 C16,12.418278 12.418278,16 8,16 Z" id="图标颜色"></path>
+            <path d="M8,12 C5.790861,12 4,10.209139 4,8 C4,5.790861 5.790861,4 8,4 C10.209139,4 12,5.790861 12,8 C12,10.209139 10.209139,12 8,12 Z" id="图标颜色-path" opacity="0.201985677"></path>
+        </g>
+    </g>
+</svg>

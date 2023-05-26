@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons_filled_mini_program3</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons_filled_mini_program3备份" transform="translate(4.000000, 4.000000)" fill="#F7B500" fill-rule="nonzero">
+            <polygon id="形状结合" points="9 9 13.2857143 9 13.2857143 10.0291432 10.7597143 10.0291432 15 14.2722859 14.2726902 15 10.0285714 10.7538315 10.0285714 13.2880965 9 13.2880965"></polygon>
+            <g id="形状结合" transform="translate(0.000000, 9.000000)" opacity="0.199916295">
+                <circle id="椭圆形" cx="3.5" cy="3.5" r="3.5"></circle>
+            </g>
+            <g id="形状结合备份-2">
+                <circle id="形状结合" cx="3.5" cy="3.5" r="3.5"></circle>
+            </g>
+            <g id="形状结合备份-3" transform="translate(9.000000, 0.000000)" opacity="0.199916295">
+                <circle id="形状结合" cx="3.5" cy="3.5" r="3.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

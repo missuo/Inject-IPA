@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons_outlined_qr_code</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons_filled_qr_code备份" transform="translate(3.000000, 3.000000)" fill="#000000" fill-rule="nonzero">
+            <polygon id="Combined-Shape-path" opacity="0.19921875" points="8 16 10 16 10 18 8 18"></polygon>
+            <polygon id="Combined-Shape-path" points="16 8 18 8 18 10 16 10"></polygon>
+            <polygon id="Combined-Shape-path" points="8 12 10 12 10 14 8 14"></polygon>
+            <polygon id="Combined-Shape-path" opacity="0.19921875" points="12 8 14 8 14 10 12 10"></polygon>
+            <path d="M9,0 C9.5522847,0 10,0.44771525 10,1 L10,9 C10,9.5522847 9.5522847,10 9,10 L1,10 C0.44771525,10 0,9.5522847 0,9 L0,1 C0,0.44771525 0.44771525,0 1,0 L9,0 Z M8,2 L2,2 L2,8 L8,8 L8,2 Z" id="形状结合"></path>
+            <polygon id="Combined-Shape-path" points="4 4 6 4 6 6 4 6"></polygon>
+            <path d="M13,0 L17,0 C17.5522847,0 18,0.44771525 18,1 L18,5 C18,5.55228475 17.5522847,6 17,6 L13,6 C12.4477153,6 12,5.55228475 12,5 L12,1 C12,0.44771525 12.4477153,0 13,0 Z" id="Combined-Shape-path" opacity="0.196823847"></path>
+            <path d="M17,12 C17.5522847,12 18,12.4477153 18,13 L18,17 C18,17.5522847 17.5522847,18 17,18 L13,18 C12.4477153,18 12,17.5522847 12,17 L12,13 C12,12.4477153 12.4477153,12 13,12 L17,12 Z M16,14 L14,14 L14,16 L16,16 L16,14 Z" id="形状结合"></path>
+            <path d="M1,12 L5,12 C5.55228475,12 6,12.4477153 6,13 L6,17 C6,17.5522847 5.55228475,18 5,18 L1,18 C0.44771525,18 0,17.5522847 0,17 L0,13 C0,12.4477153 0.44771525,12 1,12 Z" id="Combined-Shape-path" opacity="0.196823847"></path>
+        </g>
+    </g>
+</svg>

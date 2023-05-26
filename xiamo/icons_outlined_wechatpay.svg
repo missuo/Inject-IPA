@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons_outlined_wechatpay</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons_outlined_wallet" transform="translate(3.000000, 5.000000)">
+            <rect id="矩形" stroke="#10B15D" stroke-width="1.3" x="0" y="0" width="18" height="14" rx="3"></rect>
+            <path d="M18,9 L18,5 L11.8181818,5 C10.8140277,5 10,5.8954305 10,7 C10,8.1045695 10.8140277,9 11.8181818,9 L18,9 Z" id="形状结合" fill="#10B15D" fill-rule="nonzero" opacity="0.195638021"></path>
+            <path d="M11,8 C10.4477153,8 10,7.5522847 10,7 C10,6.4477153 10.4477153,6 11,6 C11.5522847,6 12,6.4477153 12,7 C12,7.5522847 11.5522847,8 11,8 Z" id="Combined-Shape-path" fill="#10B15D" fill-rule="nonzero"></path>
+            <path d="M0.792369844,13.8769002 C2.73152203,13.8769002 7.58786213,14.1538747 8.48605065,13.8769002 C8.81501559,13.2393423 9,12.5206349 9,11.7602919 C9,9.13125527 6.78838632,7 4.06022259,7 C2.57461472,7 1.24217904,7.6319795 0.336623428,8.63217574 C-0.420779285,9.46873545 0.336623428,10.2198812 0.336623428,11.4172891 C0.336623428,14.0463257 0.19897566,13.4191532 0.792369844,13.8769002 Z" id="椭圆形" fill="#10B15D" opacity="0.201055618"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_filled_brand_voice</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_filled_brand_voice" transform="translate(4.000000, 1.000000)" fill="#000000">
+            <path d="M11.1066017,0.5 C13.8210678,3.18718434 15.5,6.89949494 15.5,11 C15.5,15.1005051 13.8210678,18.8128157 11.1066017,21.5 L9.5156115,19.925 C11.8927284,17.5717742 13.25,14.3950755 13.25,11 C13.25,7.60492455 11.8927284,4.42822576 9.5156115,2.075 L11.1066017,0.5 Z" id="图标颜色-path" fill-rule="nonzero" opacity="0.201706659"></path>
+            <path d="M7.3942911,4.175 C9.1586941,5.92166982 10.25,8.33467171 10.25,11 C10.25,13.6653283 9.1586941,16.0783302 7.3942911,17.825 L5.80330086,16.25 C7.202206,14.8651545 8,12.997915 8,11 C8,9.002085 7.202206,7.13484548 5.80330086,5.75 L7.3942911,4.175 Z" id="图标颜色-path" fill-rule="nonzero" opacity="0.504859561"></path>
+            <circle id="椭圆形" cx="3" cy="11" r="3"></circle>
+        </g>
+    </g>
+</svg>

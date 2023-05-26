@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons_outlined_brand_tomenu</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons_outlined_brand_tomenu" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <g id="common_icons_info">
+                <path d="M10,0.65 C12.5819312,0.65 14.9194312,1.6965344 16.6114484,3.3885516 C18.3034656,5.08056879 19.35,7.41806879 19.35,10 C19.35,12.5819312 18.3034656,14.9194312 16.6114484,16.6114484 C14.9194312,18.3034656 12.5819312,19.35 10,19.35 C7.41806879,19.35 5.08056879,18.3034656 3.3885516,16.6114484 C1.6965344,14.9194312 0.65,12.5819312 0.65,10 C0.65,7.41806879 1.6965344,5.08056879 3.3885516,3.3885516 C5.08056879,1.6965344 7.41806879,0.65 10,0.65 Z" id="形状结合-path" stroke="#000000" stroke-width="1.3"></path>
+                <polygon id="形状结合-path" fill="#000000" points="6.199 11 5 11 5 13 6.199 13"></polygon>
+                <polygon id="形状结合-path备份-3" fill="#000000" opacity="0.202055432" points="6.199 7 5 7 5 9 6.199 9"></polygon>
+                <polygon id="形状结合-path" fill="#000000" opacity="0.202055432" points="15 11 7.199 11 7.199 13 15 13"></polygon>
+                <polygon id="形状结合-path备份-4" fill="#000000" points="15 7 7.199 7 7.199 9 15 9"></polygon>
+            </g>
+            <polygon id="路径-2" fill="#020202" opacity="0.199032738" points="8 21 12 21 10 23"></polygon>
+        </g>
+    </g>
+</svg>

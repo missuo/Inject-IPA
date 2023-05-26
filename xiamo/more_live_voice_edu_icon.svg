@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>more_live_voice_edu_icon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="编组-3" transform="translate(6.000000, 4.000000)" fill="#000000">
+            <path d="M7.5710678,0.5 C9.3807119,2.41941738 10.5,5.07106781 10.5,8 C10.5,10.9289322 9.3807119,13.5805826 7.5710678,15.5 L6.5104076,14.375 C8.0951523,12.6941245 9,10.4250539 9,8 C9,5.57494611 8.0951523,3.30587554 6.5104076,1.625 L7.5710678,0.5 Z" id="形状结合-path" fill-rule="nonzero" opacity="0.201729911"></path>
+            <path d="M5.0961941,3.125 C6.2724627,4.3726213 7,6.0961941 7,8 C7,9.9038059 6.2724627,11.6273787 5.0961941,12.875 L4.0355339,11.75 C4.9681374,10.7608247 5.5,9.4270821 5.5,8 C5.5,6.5729179 4.9681374,5.23917534 4.0355339,4.25 L5.0961941,3.125 Z" id="形状结合-path" fill-rule="nonzero" opacity="0.582426525"></path>
+            <circle id="椭圆形" cx="2" cy="8" r="2"></circle>
+        </g>
+    </g>
+</svg>
