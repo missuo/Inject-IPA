@@ -8,8 +8,9 @@ Inject dylib into ipa
 
 1. Install `injectipa` on your Mac.
 
+```
 Download [injectipa.pkg](https://github.com/Netskao/MacOS-Utils/raw/main/injectipa.pkg).
-
+```
 2. Modify the theme of Dump `WeChat.ipa`.
 
 ```bash
